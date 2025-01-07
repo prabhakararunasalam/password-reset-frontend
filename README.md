@@ -15,7 +15,7 @@ This is the frontend of the password reset flow, implemented using React and Boo
    - Validates the password before submission.
 
 3. **Responsive UI**:
-   - Styled using Bootstrap to ensure the application works on various devices.
+   - Styled using Tailwind to ensure the application works on various devices.
 
 4. **Toast Notifications**:
    - Provides success or error messages using visual toast notifications.
